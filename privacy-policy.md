@@ -12,7 +12,7 @@ Questa informativa spiega come vengono trattati i tuoi dati personali quando vis
 
 **[Marco Bottoni]**
 [Via Colle Cifuli 8 Gavignano 00030 RM]
-Email di contatto per la privacy: **[matrixxrevolution3@gmail.com]**
+Email di contatto per la privacy: ** matrixxrevolution3@gmail.com **
 
 ## 2. Quali dati raccogliamo
 
@@ -51,7 +51,7 @@ Alcuni fornitori possono trattare i dati fuori dallo Spazio Economico Europeo (a
 
 Puoi chiedere in qualsiasi momento di accedere ai tuoi dati, correggerli, cancellarli, limitarne il trattamento, ottenerne una copia in formato leggibile (portabilità) e opporti al trattamento. Puoi anche revocare il consenso alle email: ogni messaggio contiene un link per disiscriverti.
 
-Per esercitare i tuoi diritti scrivi a **[matrixxrevolution3@gmail.com]**. Ti rispondo entro 30 giorni.
+Per esercitare i tuoi diritti scrivi a ** matrixxrevolution3@gmail.com **. Ti rispondo entro 30 giorni.
 
 Se ritieni che il trattamento violi la normativa, puoi presentare reclamo al **Garante per la protezione dei dati personali** (www.garanteprivacy.it).
 
