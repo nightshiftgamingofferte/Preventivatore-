@@ -10,9 +10,8 @@ Questa informativa spiega come vengono trattati i tuoi dati personali quando vis
 
 ## 1. Titolare del trattamento
 
-Marco Bottoni <br>
-Via Colle Cifuli 8, 00030 Gavignano (RM)<br>
-Email di contatto per la privacy: matrixxrevolution3@gmail.com 
+Marco Bottoni<br>
+Email di contatto per la privacy: matrixxrevolution3@gmail.com
 
 ## 2. Quali dati raccogliamo
 
