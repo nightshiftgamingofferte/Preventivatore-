@@ -20,8 +20,8 @@ Il sito è ospitato da GitHub Pages. I dati tecnici di navigazione (come l'indir
 
 Alcune pagine rimandano a siti di terze parti, dove vengono usati cookie propri:
 
-- **systeme.io**: pagina di iscrizione al calcolatore gratuito e invio delle email.
-- **Payhip**: pagina di acquisto dei prodotti.
+- systeme.io: pagina di iscrizione al calcolatore gratuito e invio delle email.
+- Payhip: pagina di acquisto dei prodotti.
 
 Su quei siti valgono le loro informative sui cookie e sulla privacy, e i loro banner di consenso, se presenti.
 
@@ -33,4 +33,4 @@ Se in futuro userò strumenti di statistica, video incorporati o pubblicità, ag
 
 Puoi bloccare o cancellare i cookie dalle impostazioni del tuo browser (Chrome, Firefox, Safari, Edge). Se li blocchi, alcuni siti esterni potrebbero non funzionare correttamente.
 
-Per domande: **[matrixxrevolution3@gmail.com]**
+Per domande: matrixxrevolution3@gmail.com
