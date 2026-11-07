@@ -14,7 +14,7 @@ I cookie sono piccoli file di testo che un sito salva nel tuo browser. Alcuni so
 
 Questo sito **non usa cookie di profilazione, né strumenti di statistica o pubblicità** (come Google Analytics o pixel dei social). Per questo motivo non mostra un banner per il consenso.
 
-Il sito è ospitato da GitHub Pages. I dati tecnici di navigazione (come l'indirizzo IP) sono trattati per il funzionamento del servizio, come spiegato nell'[informativa privacy](/privacy-policy/).
+Il sito è ospitato da GitHub Pages. I dati tecnici di navigazione (come l'indirizzo IP) sono trattati per il funzionamento del servizio, come spiegato nell'[informativa privacy]({{ '/privacy-policy/' | relative_url }})
 
 ## Siti esterni collegati
 
