@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Informativa sulla privacy"
-permalink: [Cookie policy]({{ '/cookie-policy/' | relative_url }})
+permalink: /privacy-policy/
 ---
 
 Ultimo aggiornamento: 06/11/2026
