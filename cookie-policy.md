@@ -33,4 +33,4 @@ Se in futuro userò strumenti di statistica, video incorporati o pubblicità, ag
 
 Puoi bloccare o cancellare i cookie dalle impostazioni del tuo browser (Chrome, Firefox, Safari, Edge). Se li blocchi, alcuni siti esterni potrebbero non funzionare correttamente.
 
-Per domande: **[INSERISCI_LA_TUA_EMAIL]**
+Per domande: **[matrixxrevolution3@gmail.com]**
