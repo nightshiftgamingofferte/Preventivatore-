@@ -1,8 +1,7 @@
 title: "Preventivi per Officine"
 description: "Guide pratiche per calcolare costi e prezzi nelle piccole officine meccaniche e carpenterie, scritte da chi lavora in produzione."
 lang: it
-# Sostituisci con il tuo indirizzo (dominio tuo oppure https://NOMEUTENTE.github.io)
-url: "https://NOMEUTENTE.github.io"
+url: "https://github.com/nightshiftgamingofferte/Preventivatore-"
 theme: minima
 plugins:
   - jekyll-seo-tag
