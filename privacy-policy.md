@@ -67,4 +67,4 @@ Il sito e i prodotti sono rivolti a titolari e addetti di aziende. Non sono dest
 
 Posso aggiornare questa informativa. La data in alto indica l'ultima versione.
 
-Vedi anche la [Cookie policy](/cookie-policy/).
+Vedi anche la [Cookie policy]({{ '/cookie-policy/' | relative_url }})
