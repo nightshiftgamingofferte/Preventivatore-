@@ -10,15 +10,15 @@ Questa informativa spiega come vengono trattati i tuoi dati personali quando vis
 
 ## 1. Titolare del trattamento
 
-**[Marco Bottoni]**
-[Via Colle Cifuli 8 Gavignano 00030 RM]
-Email di contatto per la privacy: ** matrixxrevolution3@gmail.com **
+Marco Bottoni <br>
+Via Colle Cifuli 8, 00030 Gavignano (RM)<br>
+Email di contatto per la privacy: matrixxrevolution3@gmail.com 
 
 ## 2. Quali dati raccogliamo
 
-- **Dati di navigazione**: indirizzo IP, data e ora della visita, pagine consultate, tipo di browser. Sono registrati dal servizio che ospita il sito (GitHub Pages) per il suo funzionamento e la sicurezza.
-- **Dati che inserisci tu**: nome (se richiesto) e indirizzo email, quando compili il modulo per scaricare il calcolatore gratuito o quando mi scrivi.
-- **Dati di acquisto**: quando compri un prodotto, i dati necessari al pagamento e alla consegna vengono trattati dalla piattaforma di vendita (Payhip). Io ricevo i dati utili a emettere la fattura e a consegnarti il prodotto, ma non vedo i dati della tua carta.
+- Dati di navigazione**: indirizzo IP, data e ora della visita, pagine consultate, tipo di browser. Sono registrati dal servizio che ospita il sito (GitHub Pages) per il suo funzionamento e la sicurezza.
+- Dati che inserisci tu**: nome (se richiesto) e indirizzo email, quando compili il modulo per scaricare il calcolatore gratuito o quando mi scrivi.
+- Dati di acquisto**: quando compri un prodotto, i dati necessari al pagamento e alla consegna vengono trattati dalla piattaforma di vendita (Payhip). Io ricevo i dati utili a emettere la fattura e a consegnarti il prodotto, ma non vedo i dati della tua carta.
 
 Non raccolgo categorie particolari di dati (salute, opinioni politiche, ecc.). Non ti chiedo di inserirle.
 
@@ -36,10 +36,10 @@ Non raccolgo categorie particolari di dati (salute, opinioni politiche, ecc.). N
 
 I dati sono trattati da fornitori che ci aiutano a erogare il servizio, nominati o designati come responsabili del trattamento quando necessario:
 
-- **systeme.io**: gestione dei moduli, della lista email e dell'invio delle email.
-- **Payhip**: piattaforma di vendita e pagamento dei prodotti digitali.
-- **GitHub (Microsoft)**: hosting del sito.
-- **Commercialista o consulente fiscale**: solo per gli obblighi contabili e fiscali.
+- systeme.io: gestione dei moduli, della lista email e dell'invio delle email.
+- Payhip: piattaforma di vendita e pagamento dei prodotti digitali.
+- GitHub (Microsoft): hosting del sito.
+- Commercialista o consulente fiscale: solo per gli obblighi contabili e fiscali.
 
 I dati non vengono venduti a terzi.
 
@@ -51,9 +51,9 @@ Alcuni fornitori possono trattare i dati fuori dallo Spazio Economico Europeo (a
 
 Puoi chiedere in qualsiasi momento di accedere ai tuoi dati, correggerli, cancellarli, limitarne il trattamento, ottenerne una copia in formato leggibile (portabilità) e opporti al trattamento. Puoi anche revocare il consenso alle email: ogni messaggio contiene un link per disiscriverti.
 
-Per esercitare i tuoi diritti scrivi a ** matrixxrevolution3@gmail.com **. Ti rispondo entro 30 giorni.
+Per esercitare i tuoi diritti scrivi a  matrixxrevolution3@gmail.com . Ti rispondo entro 30 giorni.
 
-Se ritieni che il trattamento violi la normativa, puoi presentare reclamo al **Garante per la protezione dei dati personali** (www.garanteprivacy.it).
+Se ritieni che il trattamento violi la normativa, puoi presentare reclamo al Garante per la protezione dei dati personali (www.garanteprivacy.it).
 
 ## 7. Conferimento dei dati
 
