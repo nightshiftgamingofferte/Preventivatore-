@@ -74,6 +74,6 @@ Il costo orario è solo il primo mattone. Per fare un preventivo giusto bisogna 
 
 Ho preparato un foglio Excel che fa tutti questi calcoli per te: inserisci i dati della tua macchina e ottieni il costo orario in pochi minuti.
 
-**[Scarica gratis il calcolatore del costo orario macchina](LINK_TEMPLATE_GRATUITO)**
+**[Scarica gratis il calcolatore del costo orario macchina](https://ioetesempre230819.systeme.io/calcolatore-costo-orario)**
 
 Nel prossimo articolo ti mostro l'errore che si nasconde nei lotti piccoli: **un attrezzaggio dimenticato può mangiarsi 9 euro su ogni pezzo**, e quasi nessuno lo mette nel preventivo.
