@@ -4,7 +4,7 @@ title: "Informativa sulla privacy"
 permalink: /privacy-policy/
 ---
 
-Ultimo aggiornamento: 06/11/2026
+Ultimo aggiornamento: 08/11/2026
 
 Questa informativa spiega come vengono trattati i tuoi dati personali quando visiti questo sito, scarichi il calcolatore gratuito, ti iscrivi alle email o acquisti un prodotto. È redatta ai sensi degli articoli 13 e 14 del Regolamento (UE) 2016/679 (GDPR).
 
@@ -15,9 +15,9 @@ Email di contatto per la privacy: matrixxrevolution3@gmail.com
 
 ## 2. Quali dati raccogliamo
 
-- Dati di navigazione**: indirizzo IP, data e ora della visita, pagine consultate, tipo di browser. Sono registrati dal servizio che ospita il sito (GitHub Pages) per il suo funzionamento e la sicurezza.
-- Dati che inserisci tu**: nome (se richiesto) e indirizzo email, quando compili il modulo per scaricare il calcolatore gratuito o quando mi scrivi.
-- Dati di acquisto**: quando compri un prodotto, i dati necessari al pagamento e alla consegna vengono trattati dalla piattaforma di vendita (Payhip). Io ricevo i dati utili a emettere la fattura e a consegnarti il prodotto, ma non vedo i dati della tua carta.
+- **Dati di navigazione**: indirizzo IP, data e ora della visita, pagine consultate, tipo di browser. Sono registrati dal servizio che ospita il sito (GitHub Pages) per il suo funzionamento e la sicurezza.
+- **Dati che inserisci tu**: nome (se richiesto) e indirizzo email, quando compili il modulo per scaricare il calcolatore gratuito o quando mi scrivi.
+- **Dati di acquisto**: quando compri un prodotto, i dati necessari al pagamento e alla consegna vengono trattati dalla piattaforma di vendita (Payhip). Io ricevo i dati utili a emettere la fattura e a consegnarti il prodotto, ma non vedo i dati della tua carta.
 
 Non raccolgo categorie particolari di dati (salute, opinioni politiche, ecc.). Non ti chiedo di inserirle.
 
@@ -50,7 +50,7 @@ Alcuni fornitori possono trattare i dati fuori dallo Spazio Economico Europeo (a
 
 Puoi chiedere in qualsiasi momento di accedere ai tuoi dati, correggerli, cancellarli, limitarne il trattamento, ottenerne una copia in formato leggibile (portabilità) e opporti al trattamento. Puoi anche revocare il consenso alle email: ogni messaggio contiene un link per disiscriverti.
 
-Per esercitare i tuoi diritti scrivi a  matrixxrevolution3@gmail.com . Ti rispondo entro 30 giorni.
+Per esercitare i tuoi diritti scrivi a matrixxrevolution3@gmail.com. Ti rispondo entro 30 giorni.
 
 Se ritieni che il trattamento violi la normativa, puoi presentare reclamo al Garante per la protezione dei dati personali (www.garanteprivacy.it).
 
